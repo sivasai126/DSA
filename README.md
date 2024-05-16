@@ -5,7 +5,7 @@ Welcome to my repository where I explore various data structures and algorithms 
 ## Contents
 
 - **Basic Data Structures**
-  - Arrays
+  - [Arrays](array.cpp)
   - Linked Lists
   - Stacks
   - Queues
