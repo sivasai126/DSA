@@ -6,11 +6,11 @@ Welcome to my repository where I explore various data structures and algorithms 
 
 - **Basic Data Structures**
   - [Arrays](array.cpp)
-  - Linked Lists
-  - Stacks
-  - Queues
+  - [Linked Lists](linkedList.cpp)
+  - [Stacks](stack.cpp)
+  - [Queues](queue.cpp)
 - **Advanced Data Structures**
-  - Binary Trees
+  - [Binary Trees](binaryTree.cpp)
   - Hash Tables
   - Graphs
   - Heaps
