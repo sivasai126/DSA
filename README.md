@@ -15,8 +15,8 @@ Welcome to my repository where I explore various data structures and algorithms 
   - Graphs
   - Heaps
 - **Algorithms**
-  - Sorting (Bubble, Merge, Quick, Heap)
-  - Searching (Binary Search, Depth-First Search, Breadth-First Search)
+  - [Sorting (Bubble, Merge, Quick, Heap)](sort)
+  - [Searching (Binary Search, Depth-First Search, Breadth-First Search)](searching)
   - Algorithmic Challenges (Various coding problems and their solutions)
 
 ## Getting Started
